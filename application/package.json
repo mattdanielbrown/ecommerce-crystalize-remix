@@ -30,7 +30,7 @@
         "@remix-run/node": "^1.11.1",
         "@remix-run/react": "^1.11.1",
         "@remix-run/serve": "^1.11.1",
-        "@sendgrid/mail": "^7.7.0",
+        "@sendgrid/mail": "^8.1.1",
         "@splidejs/react-splide": "^0.7.12",
         "@stripe/react-stripe-js": "^1.16.1",
         "@stripe/stripe-js": "^1.46.0",
