@@ -52,7 +52,7 @@
     },
     "devDependencies": {
         "@playwright/test": "^1.28.1",
-        "@remix-run/dev": "^1.11.1",
+        "@remix-run/dev": "^1.19.2",
         "@tailwindcss/line-clamp": "^0.4.2",
         "@types/jsonwebtoken": "^9",
         "@types/mjml": "^4.7.0",
